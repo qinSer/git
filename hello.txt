@@ -7,4 +7,4 @@ hello welecom to git
 hello welecom to git
 hello welecom to git
 hello welecom to git
-hot-fix first commit
+master test
