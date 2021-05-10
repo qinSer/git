@@ -7,4 +7,4 @@ hello welecom to git
 hello welecom to git
 hello welecom to git
 hello welecom to git
-second commit
+hot-fix first commit
