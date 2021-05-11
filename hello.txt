@@ -11,3 +11,7 @@ master test
 122222222
 333333
 success
+
+
+GitHub指令登陆：
+  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
